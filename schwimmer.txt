@@ -1,0 +1,17 @@
+Achim;M;0;30
+Bernd;M;10;0
+Carls;M;10;30
+Dieter;M;30;10
+Emil;M;10;100
+Franz;M;100;10
+Gustav;M;30;30
+Hubert;M;100;100
+Anja;W;0;40
+Barbara;W;50;0
+Claudie;W;40;40
+Doris;W;10;40
+Erna;W;110;40
+Frida;W;12;10
+Gundula;W;100;30
+
+
